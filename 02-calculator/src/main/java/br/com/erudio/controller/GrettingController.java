@@ -1,4 +1,4 @@
-package br.com.erudio.foo;
+package br.com.erudio.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
